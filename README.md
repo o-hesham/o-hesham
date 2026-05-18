@@ -131,11 +131,3 @@ Currently exploring:
 - Building graphics projects from scratch
 
 ---
-
-## Philosophy
-
-```text
-Build to understand.
-Implement from scratch.
-Learn by making.
-```
