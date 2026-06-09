@@ -97,30 +97,6 @@ CPU-based 3D renderer exploring:
 
 ---
 
-### Ray Tracer
-Learning-focused ray tracing renderer implementing:
-
-- Materials
-- Reflections
-- Refractions
-- Path tracing concepts
-
-🔗 https://github.com/o-hesham/RayTracer
-
----
-
-### Cloth Physics Simulation
-Particle-based cloth simulation with:
-
-- Verlet integration
-- Constraint sticks
-- Spring-damper behavior
-- Interactive cloth manipulation
-
-🔗 https://github.com/o-hesham/ClothPhysicsSimulation
-
----
-
 ## Current Focus
 
 Currently exploring:
