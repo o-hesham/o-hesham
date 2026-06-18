@@ -96,9 +96,7 @@ CPU-based 3D renderer exploring:
 
 Currently exploring:
 
-- Vulkan fundamentals  
-- Real-time renderer architecture  
-- Physically based simulation  
-- Building graphics projects from scratch
+-  Qt Framework  
+
 
 ---
