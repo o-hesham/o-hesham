@@ -21,12 +21,6 @@ I enjoy working close to the metal — from software rasterization and ray traci
   - Real-Time Graphics
   - Systems Programming
 
-- 🌱 Currently learning:
-  - Vulkan
-  - Advanced Rendering Techniques
-  - Physics-Based Simulation
-  - Graphics Engine Design
-
 ---
 
 ## Tech Stack
@@ -41,6 +35,7 @@ Libraries:
 Tools:
 - Git
 - CMake
+- Qt (GUI / tooling / application development)
 
 Engines:
 - Unreal Engine
@@ -48,7 +43,7 @@ Engines:
 Graphics:
 - Software Rasterization
 - Ray Tracing
-- Vulkan (Learning)
+- Vulkan
 
 Math:
 - Linear Algebra
