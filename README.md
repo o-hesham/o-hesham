@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=o-hesham)
 
-### Computer Graphics | Rendering | Physics Simulation | C++ | Unreal Engine
+### C++ | Computer Graphics | Rendering | Physics Simulation
 
 Computer Graphics student focused on building rendering engines, simulation systems, and low-level graphics projects in C++.
 
