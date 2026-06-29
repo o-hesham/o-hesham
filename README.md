@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=o-hesham)
 
-### C++ | Computer Graphics | Rendering | Physics Simulation
+### C++ Software Developer | Qt | Computer Graphics | Rendering | Physics Simulation
 
-Computer Graphics student focused on building rendering engines, simulation systems, and low-level graphics projects in C++.
+C++ software developer focused on building rendering engines, simulation systems, Qt applications, and low-level graphics projects.
 
 I enjoy working close to the metal — from software rasterization and ray tracing to physics engines and real-time engine architecture.
 
@@ -12,13 +12,13 @@ I enjoy working close to the metal — from software rasterization and ray traci
 
 ## About Me
 
-- 🎓 Computer Graphics student  
-- 💻 Primarily working in C++  
+- 💻 C++ software developer
 - ⚙️ Interested in:
   - Rendering
   - Engine Architecture
   - Physics Simulation
   - Real-Time Graphics
+  - Qt GUI / Tooling Development
   - Systems Programming
 
 ---
