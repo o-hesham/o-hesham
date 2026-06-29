@@ -35,7 +35,7 @@ Libraries:
 Tools:
 - Git
 - CMake
-- Qt (GUI / tooling / application development) (Learning)
+- Qt (GUI / tooling / application development)
 
 Engines:
 - Unreal Engine
