@@ -91,12 +91,3 @@ CPU-based 3D renderer exploring:
 🔗 https://github.com/o-hesham/3DRenderer
 
 ---
-
-## Current Focus
-
-Currently exploring:
-
--  Qt Framework  
-
-
----
